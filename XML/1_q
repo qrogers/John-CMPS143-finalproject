@@ -1,0 +1,420 @@
+<doc>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHADVP description="wh-avdverb phrase">
+        <WRB description="wh-adverb">
+          <word const="WRB" dep="5" id="word-0" mod="advmod">Where</word>
+        </WRB>
+      </WHADVP>
+      <SQ description="Inverted yes/no question.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="5" id="word-1" mod="aux">was</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="4" id="word-2" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-3" mod="nsubj">crow</word>
+          </NN>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VBG description="Verb, gerund or present participle.">
+            <word const="VBG" dep="0" id="word-4" mod="ROOT">sitting</word>
+          </VBG>
+        </VP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHNP description="Wh-noun phrase." match="hello">
+        <WP description="wh-pronoun">
+          <word const="WP" dep="2" id="word-0" mod="nsubj">Who</word>
+        </WP>
+      </WHNP>
+      <SQ description="Inverted yes/no question.">
+        <VP description="Verb Phrase.">
+          <VBD description="Verb, past tense">
+            <word const="VBD" dep="0" id="word-1" mod="ROOT">set</word>
+          </VBD>
+          <NP description="Noun Phrase">
+            <PRP description="Personal Pronoun">
+              <word const="PRP" dep="4" id="word-2" mod="nmod:poss">his</word>
+            </PRP>
+            <NNS description="Noun,plural">
+              <word const="NNS" dep="2" id="word-3" mod="dobj">wits</word>
+            </NNS>
+          </NP>
+          <S description="Simple declarative clase.">
+            <VP description="Verb Phrase.">
+              <TO description="to">
+                <word const="TO" dep="6" id="word-4" mod="mark">to</word>
+              </TO>
+              <VP description="Verb Phrase.">
+                <VB description="Verb, base form.">
+                  <word const="VB" dep="2" id="word-5" mod="advcl">work</word>
+                </VB>
+              </VP>
+            </VP>
+          </S>
+        </VP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHNP description="Wh-noun phrase." match="hello">
+        <WP description="wh-pronoun">
+          <word const="WP" dep="2" id="word-0" mod="nsubj">Who</word>
+        </WP>
+      </WHNP>
+      <SQ description="Inverted yes/no question.">
+        <VP description="Verb Phrase.">
+          <VBD description="Verb, past tense">
+            <word const="VBD" dep="0" id="word-1" mod="ROOT">tried</word>
+          </VBD>
+          <S description="Simple declarative clase.">
+            <VP description="Verb Phrase.">
+              <TO description="to">
+                <word const="TO" dep="4" id="word-2" mod="mark">to</word>
+              </TO>
+              <VP description="Verb Phrase.">
+                <VB description="Verb, base form.">
+                  <word const="VB" dep="2" id="word-3" mod="xcomp">discover</word>
+                </VB>
+                <SBAR description="Clause introduced by subordinating conjunction">
+                  <WHADVP description="wh-avdverb phrase">
+                    <WRB description="wh-adverb">
+                      <word const="WRB" dep="7" id="word-4" mod="advmod">how</word>
+                    </WRB>
+                  </WHADVP>
+                  <S description="Simple declarative clase.">
+                    <VP description="Verb Phrase.">
+                      <TO description="to">
+                        <word const="TO" dep="7" id="word-5" mod="mark">to</word>
+                      </TO>
+                      <VP description="Verb Phrase.">
+                        <VB description="Verb, base form.">
+                          <word const="VB" dep="4" id="word-6" mod="ccomp">get</word>
+                        </VB>
+                        <NP description="Noun Phrase">
+                          <DT description="Determiner">
+                            <word const="DT" dep="9" id="word-7" mod="det">the</word>
+                          </DT>
+                          <NN description="Noun">
+                            <word const="NN" dep="7" id="word-8" mod="dobj">cheese</word>
+                          </NN>
+                        </NP>
+                      </VP>
+                    </VP>
+                  </S>
+                </SBAR>
+              </VP>
+            </VP>
+          </S>
+        </VP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHNP description="Wh-noun phrase." match="hello">
+        <WP description="wh-pronoun">
+          <word const="WP" dep="5" id="word-0" mod="dobj">What</word>
+        </WP>
+      </WHNP>
+      <SQ description="Inverted yes/no question.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="5" id="word-1" mod="aux">did</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="4" id="word-2" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-3" mod="nsubj">fox</word>
+          </NN>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VBP description="Verb, non-3rd person singular present">
+            <word const="VBP" dep="0" id="word-4" mod="ROOT">say</word>
+          </VBP>
+          <PP description="Prepositional Phrase">
+            <IN description="Proposition or subordinating conjunction.">
+              <word const="IN" dep="9" id="word-5" mod="case">about</word>
+            </IN>
+            <NP description="Noun Phrase">
+              <DT description="Determiner">
+                <word const="DT" dep="9" id="word-6" mod="det">the</word>
+              </DT>
+              <NN description="Noun">
+                <word const="NN" dep="9" id="word-7" mod="compound">bird’s</word>
+              </NN>
+              <NN description="Noun">
+                <word const="NN" dep="5" id="word-8" mod="nmod">beauty</word>
+              </NN>
+            </NP>
+          </PP>
+        </VP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHADVP description="wh-avdverb phrase">
+        <WRB description="wh-adverb">
+          <word const="WRB" dep="2" id="word-0" mod="advmod">How</word>
+        </WRB>
+      </WHADVP>
+      <SINV description="Inverted declarative sentence">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-1" mod="ROOT">did</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="5" id="word-2" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-3" mod="compound">crow</word>
+          </NN>
+          <NN description="Noun">
+            <word const="NN" dep="2" id="word-4" mod="nsubj">caw</word>
+          </NN>
+        </NP>
+      </SINV>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHNP description="Wh-noun phrase." match="hello">
+        <WP description="wh-pronoun">
+          <word const="WP" dep="5" id="word-0" mod="dobj">What</word>
+        </WP>
+      </WHNP>
+      <SQ description="Inverted yes/no question.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="5" id="word-1" mod="aux">did</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="4" id="word-2" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-3" mod="nsubj">crow</word>
+          </NN>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VBP description="Verb, non-3rd person singular present">
+            <word const="VBP" dep="0" id="word-4" mod="ROOT">have</word>
+          </VBP>
+          <PP description="Prepositional Phrase">
+            <IN description="Proposition or subordinating conjunction.">
+              <word const="IN" dep="8" id="word-5" mod="case">in</word>
+            </IN>
+            <NP description="Noun Phrase">
+              <PRP description="Personal Pronoun">
+                <word const="PRP" dep="8" id="word-6" mod="nmod:poss">her</word>
+              </PRP>
+              <NN description="Noun">
+                <word const="NN" dep="5" id="word-7" mod="nmod">beak</word>
+              </NN>
+            </NP>
+          </PP>
+        </VP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHNP description="Wh-noun phrase." match="hello">
+        <WP description="wh-pronoun">
+          <word const="WP" dep="5" id="word-0" mod="dobj">Who</word>
+        </WP>
+      </WHNP>
+      <SQ description="Inverted yes/no question.">
+        <VBZ description="Verb, 3rd person singular present">
+          <word const="VBZ" dep="5" id="word-1" mod="cop">is</word>
+        </VBZ>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="4" id="word-2" mod="det">the</word>
+          </DT>
+          <NNP description="Proper noun, singular">
+            <word const="NNP" dep="5" id="word-3" mod="nsubj">Story</word>
+          </NNP>
+        </NP>
+        <ADJP description="Adjective Phrase">
+          <IN description="Proposition or subordinating conjunction.">
+            <word const="IN" dep="0" id="word-4" mod="ROOT">about</word>
+          </IN>
+        </ADJP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHNP description="Wh-noun phrase." match="hello">
+        <WP description="wh-pronoun">
+          <word const="WP" dep="5" id="word-0" mod="dobj">What</word>
+        </WP>
+      </WHNP>
+      <SQ description="Inverted yes/no question.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="5" id="word-1" mod="aux">did</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="4" id="word-2" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-3" mod="nsubj">fox</word>
+          </NN>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VBP description="Verb, non-3rd person singular present">
+            <word const="VBP" dep="0" id="word-4" mod="ROOT">do</word>
+          </VBP>
+          <PP description="Prepositional Phrase">
+            <TO description="to">
+              <word const="TO" dep="8" id="word-5" mod="case">to</word>
+            </TO>
+            <NP description="Noun Phrase">
+              <DT description="Determiner">
+                <word const="DT" dep="8" id="word-6" mod="det">the</word>
+              </DT>
+              <NN description="Noun">
+                <word const="NN" dep="5" id="word-7" mod="nmod">cheese</word>
+              </NN>
+            </NP>
+          </PP>
+        </VP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHADVP description="wh-avdverb phrase">
+        <WRB description="wh-adverb">
+          <word const="WRB" dep="2" id="word-0" mod="advmod">Where</word>
+        </WRB>
+      </WHADVP>
+      <SQ description="Inverted yes/no question.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-1" mod="ROOT">was</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="5" id="word-2" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-3" mod="compound">fox</word>
+          </NN>
+          <NN description="Noun">
+            <word const="NN" dep="2" id="word-4" mod="nsubj">standing</word>
+          </NN>
+        </NP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHNP description="Wh-noun phrase." match="hello">
+        <WP description="wh-pronoun">
+          <word const="WP" dep="5" id="word-0" mod="dobj">What</word>
+        </WP>
+      </WHNP>
+      <SQ description="Inverted yes/no question.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="5" id="word-1" mod="aux">did</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="4" id="word-2" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-3" mod="nsubj">crow</word>
+          </NN>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VB description="Verb, base form.">
+            <word const="VB" dep="0" id="word-4" mod="ROOT">feel</word>
+          </VB>
+        </VP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHNP description="Wh-noun phrase." match="hello">
+        <WP description="wh-pronoun">
+          <word const="WP" dep="2" id="word-0" mod="nsubj">Who</word>
+        </WP>
+      </WHNP>
+      <SQ description="Inverted yes/no question.">
+        <VP description="Verb Phrase.">
+          <VBD description="Verb, past tense">
+            <word const="VBD" dep="0" id="word-1" mod="ROOT">flattered</word>
+          </VBD>
+          <NP description="Noun Phrase">
+            <DT description="Determiner">
+              <word const="DT" dep="4" id="word-2" mod="det">the</word>
+            </DT>
+            <NN description="Noun">
+              <word const="NN" dep="2" id="word-3" mod="dobj">crow</word>
+            </NN>
+          </NP>
+        </VP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHNP description="Wh-noun phrase." match="hello">
+        <WP description="wh-pronoun">
+          <word const="WP" dep="5" id="word-0" mod="dobj">What</word>
+        </WP>
+      </WHNP>
+      <SQ description="Inverted yes/no question.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="5" id="word-1" mod="aux">was</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="4" id="word-2" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-3" mod="nsubj">crow</word>
+          </NN>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VBG description="Verb, gerund or present participle.">
+            <word const="VBG" dep="0" id="word-4" mod="ROOT">doing</word>
+          </VBG>
+        </VP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+  <ROOT description="root">
+    <SBARQ description="Direct question introduced by wh-word or wh-phrase">
+      <WHADVP description="wh-avdverb phrase">
+        <WRB description="wh-adverb">
+          <word const="WRB" dep="2" id="word-0" mod="advmod">Where</word>
+        </WRB>
+      </WHADVP>
+      <SQ description="Inverted yes/no question.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-1" mod="ROOT">was</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="4" id="word-2" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="2" id="word-3" mod="nsubj">cheese</word>
+          </NN>
+        </NP>
+      </SQ>
+    </SBARQ>
+  </ROOT>
+</doc>

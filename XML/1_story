@@ -1,0 +1,721 @@
+<doc>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">A</word>
+        </DT>
+        <NN description="Noun">
+          <word const="NN" dep="4" id="word-1" mod="nsubj">Crow</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="4" id="word-2" mod="aux">was</word>
+        </VBD>
+        <VP description="Verb Phrase.">
+          <VBG description="Verb, gerund or present participle.">
+            <word const="VBG" dep="0" id="word-3" mod="ROOT">sitting</word>
+          </VBG>
+          <PP description="Prepositional Phrase">
+            <IN description="Proposition or subordinating conjunction.">
+              <word const="IN" dep="7" id="word-4" mod="case">on</word>
+            </IN>
+            <NP description="Noun Phrase">
+              <NP description="Noun Phrase">
+                <DT description="Determiner">
+                  <word const="DT" dep="7" id="word-5" mod="det">a</word>
+                </DT>
+                <NN description="Noun">
+                  <word const="NN" dep="4" id="word-6" mod="nmod">branch</word>
+                </NN>
+              </NP>
+              <PP description="Prepositional Phrase">
+                <IN description="Proposition or subordinating conjunction.">
+                  <word const="IN" dep="10" id="word-7" mod="case">of</word>
+                </IN>
+                <NP description="Noun Phrase">
+                  <NP description="Noun Phrase">
+                    <DT description="Determiner">
+                      <word const="DT" dep="10" id="word-8" mod="det">a</word>
+                    </DT>
+                    <NN description="Noun">
+                      <word const="NN" dep="7" id="word-9" mod="nmod">tree</word>
+                    </NN>
+                  </NP>
+                  <PP description="Prepositional Phrase">
+                    <IN description="Proposition or subordinating conjunction.">
+                      <word const="IN" dep="13" id="word-10" mod="case">with</word>
+                    </IN>
+                    <NP description="Noun Phrase">
+                      <NP description="Noun Phrase">
+                        <DT description="Determiner">
+                          <word const="DT" dep="13" id="word-11" mod="det">a</word>
+                        </DT>
+                        <NN description="Noun">
+                          <word const="NN" dep="10" id="word-12" mod="nmod">piece</word>
+                        </NN>
+                      </NP>
+                      <PP description="Prepositional Phrase">
+                        <IN description="Proposition or subordinating conjunction.">
+                          <word const="IN" dep="15" id="word-13" mod="case">of</word>
+                        </IN>
+                        <NP description="Noun Phrase">
+                          <NP description="Noun Phrase">
+                            <NN description="Noun">
+                              <word const="NN" dep="13" id="word-14" mod="nmod">cheese</word>
+                            </NN>
+                          </NP>
+                          <PP description="Prepositional Phrase">
+                            <IN description="Proposition or subordinating conjunction.">
+                              <word const="IN" dep="18" id="word-15" mod="case">in</word>
+                            </IN>
+                            <NP description="Noun Phrase">
+                              <PRP description="Personal Pronoun">
+                                <word const="PRP" dep="18" id="word-16" mod="nmod:poss">her</word>
+                              </PRP>
+                              <NN description="Noun">
+                                <word const="NN" dep="15" id="word-17" mod="nmod">beak</word>
+                              </NN>
+                            </NP>
+                          </PP>
+                        </NP>
+                      </PP>
+                    </NP>
+                  </PP>
+                </NP>
+              </PP>
+            </NP>
+          </PP>
+          <SBAR description="Clause introduced by subordinating conjunction">
+            <WHADVP description="wh-avdverb phrase">
+              <WRB description="wh-adverb">
+                <word const="WRB" dep="22" id="word-18" mod="advmod">when</word>
+              </WRB>
+            </WHADVP>
+            <S description="Simple declarative clase.">
+              <NP description="Noun Phrase">
+                <DT description="Determiner">
+                  <word const="DT" dep="21" id="word-19" mod="det">a</word>
+                </DT>
+                <NNP description="Proper noun, singular">
+                  <word const="NNP" dep="22" id="word-20" mod="nsubj">Fox</word>
+                </NNP>
+              </NP>
+              <VP description="Verb Phrase.">
+                <VP description="Verb Phrase.">
+                  <VBD description="Verb, past tense">
+                    <word const="VBD" dep="4" id="word-21" mod="advcl">observed</word>
+                  </VBD>
+                  <NP description="Noun Phrase">
+                    <PRP description="Personal Pronoun">
+                      <word const="PRP" dep="22" id="word-22" mod="dobj">her</word>
+                    </PRP>
+                  </NP>
+                </VP>
+                <CC description="Coordinating conjunction">
+                  <word const="CC" dep="22" id="word-23" mod="cc">and</word>
+                </CC>
+                <VP description="Verb Phrase.">
+                  <VB description="Verb, base form.">
+                    <word const="VB" dep="22" id="word-24" mod="conj">set</word>
+                  </VB>
+                  <NP description="Noun Phrase">
+                    <PRP description="Personal Pronoun">
+                      <word const="PRP" dep="27" id="word-25" mod="nmod:poss">his</word>
+                    </PRP>
+                    <NNS description="Noun,plural">
+                      <word const="NNS" dep="25" id="word-26" mod="dobj">wits</word>
+                    </NNS>
+                  </NP>
+                  <S description="Simple declarative clase.">
+                    <VP description="Verb Phrase.">
+                      <TO description="to">
+                        <word const="TO" dep="29" id="word-27" mod="mark">to</word>
+                      </TO>
+                      <VP description="Verb Phrase.">
+                        <VB description="Verb, base form.">
+                          <word const="VB" dep="25" id="word-28" mod="advcl">work</word>
+                        </VB>
+                        <S description="Simple declarative clase.">
+                          <VP description="Verb Phrase.">
+                            <TO description="to">
+                              <word const="TO" dep="31" id="word-29" mod="mark">to</word>
+                            </TO>
+                            <VP description="Verb Phrase.">
+                              <VB description="Verb, base form.">
+                                <word const="VB" dep="29" id="word-30" mod="xcomp">discover</word>
+                              </VB>
+                              <NP description="Noun Phrase">
+                                <NP description="Noun Phrase">
+                                  <DT description="Determiner">
+                                    <word const="DT" dep="33" id="word-31" mod="det">some</word>
+                                  </DT>
+                                  <NN description="Noun">
+                                    <word const="NN" dep="31" id="word-32" mod="dobj">way</word>
+                                  </NN>
+                                </NP>
+                                <PP description="Prepositional Phrase">
+                                  <IN description="Proposition or subordinating conjunction.">
+                                    <word const="IN" dep="35" id="word-33" mod="mark">of</word>
+                                  </IN>
+                                  <S description="Simple declarative clase.">
+                                    <VP description="Verb Phrase.">
+                                      <VBG description="Verb, gerund or present participle.">
+                                        <word const="VBG" dep="33" id="word-34" mod="acl">getting</word>
+                                      </VBG>
+                                      <NP description="Noun Phrase">
+                                        <DT description="Determiner">
+                                          <word const="DT" dep="37" id="word-35" mod="det">the</word>
+                                        </DT>
+                                        <NN description="Noun">
+                                          <word const="NN" dep="35" id="word-36" mod="dobj">cheese</word>
+                                        </NN>
+                                      </NP>
+                                    </VP>
+                                  </S>
+                                </PP>
+                              </NP>
+                            </VP>
+                          </VP>
+                        </S>
+                      </VP>
+                    </VP>
+                  </S>
+                </VP>
+              </VP>
+            </S>
+          </SBAR>
+        </VP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <S description="Simple declarative clase.">
+        <VP description="Verb Phrase.">
+          <VBG description="Verb, gerund or present participle.">
+            <word const="VBG" dep="8" id="word-0" mod="dep">Coming</word>
+          </VBG>
+          <CC description="Coordinating conjunction">
+            <word const="CC" dep="1" id="word-1" mod="cc">and</word>
+          </CC>
+          <VBG description="Verb, gerund or present participle.">
+            <word const="VBG" dep="1" id="word-2" mod="conj">standing</word>
+          </VBG>
+          <PP description="Prepositional Phrase">
+            <IN description="Proposition or subordinating conjunction.">
+              <word const="IN" dep="6" id="word-3" mod="case">under</word>
+            </IN>
+            <NP description="Noun Phrase">
+              <DT description="Determiner">
+                <word const="DT" dep="6" id="word-4" mod="det">the</word>
+              </DT>
+              <NN description="Noun">
+                <word const="NN" dep="1" id="word-5" mod="nmod">tree</word>
+              </NN>
+            </NP>
+          </PP>
+        </VP>
+      </S>
+      <NP description="Noun Phrase">
+        <PRP description="Personal Pronoun">
+          <word const="PRP" dep="8" id="word-6" mod="nsubj">he</word>
+        </PRP>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VP description="Verb Phrase.">
+          <VBD description="Verb, past tense">
+            <word const="VBD" dep="0" id="word-7" mod="ROOT">looked</word>
+          </VBD>
+          <PRT description="Particle. Category for words that should be tagged RP">
+            <RP description="Particle">
+              <word const="RP" dep="8" id="word-8" mod="compound:prt">up</word>
+            </RP>
+          </PRT>
+        </VP>
+        <CC description="Coordinating conjunction">
+          <word const="CC" dep="8" id="word-9" mod="cc">and</word>
+        </CC>
+        <VP description="Verb Phrase.">
+          <VBD description="Verb, past tense">
+            <word const="VBD" dep="8" id="word-10" mod="conj">said</word>
+          </VBD>
+          <S description="Simple declarative clase.">
+            <NP description="Noun Phrase">
+              <WP description="wh-pronoun">
+                <word const="WP" dep="17" id="word-11" mod="nsubj">What</word>
+              </WP>
+            </NP>
+            <NP description="Noun Phrase">
+              <NP description="Noun Phrase">
+                <DT description="Determiner">
+                  <word const="DT" dep="17" id="word-12" mod="det">a</word>
+                </DT>
+                <JJ description="Adjective">
+                  <word const="JJ" dep="17" id="word-13" mod="amod">noble</word>
+                </JJ>
+                <NN description="Noun">
+                  <word const="NN" dep="11" id="word-14" mod="xcomp">bird</word>
+                </NN>
+              </NP>
+              <SBAR description="Clause introduced by subordinating conjunction">
+                <S description="Simple declarative clase.">
+                  <NP description="Noun Phrase">
+                    <PRP description="Personal Pronoun">
+                      <word const="PRP" dep="19" id="word-15" mod="nsubj">I</word>
+                    </PRP>
+                  </NP>
+                  <VP description="Verb Phrase.">
+                    <VBP description="Verb, non-3rd person singular present">
+                      <word const="VBP" dep="17" id="word-16" mod="acl:relcl">see</word>
+                    </VBP>
+                    <PP description="Prepositional Phrase">
+                      <IN description="Proposition or subordinating conjunction.">
+                        <word const="IN" dep="21" id="word-17" mod="case">above</word>
+                      </IN>
+                      <NP description="Noun Phrase">
+                        <PRP description="Personal Pronoun">
+                          <word const="PRP" dep="19" id="word-18" mod="nmod">me</word>
+                        </PRP>
+                      </NP>
+                   </PP>
+                  </VP>
+                </S>
+              </SBAR>
+            </NP>
+          </S>
+        </VP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <S description="Simple declarative clase.">
+        <NP description="Noun Phrase">
+          <PRP description="Personal Pronoun">
+            <word const="PRP" dep="2" id="word-0" mod="nmod:poss">Her</word>
+          </PRP>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-1" mod="nsubj">beauty</word>
+          </NN>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VBZ description="Verb, 3rd person singular present">
+            <word const="VBZ" dep="5" id="word-2" mod="cop">is</word>
+          </VBZ>
+          <PP description="Prepositional Phrase">
+            <IN description="Proposition or subordinating conjunction.">
+              <word const="IN" dep="5" id="word-3" mod="case">without</word>
+            </IN>
+            <ADJP description="Adjective Phrase">
+              <JJ description="Adjective">
+                <word const="JJ" dep="12" id="word-4" mod="ccomp">equal</word>
+              </JJ>
+            </ADJP>
+          </PP>
+        </VP>
+      </S>
+      <NP description="Noun Phrase">
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="8" id="word-5" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="12" id="word-6" mod="nsubj">hue</word>
+          </NN>
+        </NP>
+        <PP description="Prepositional Phrase">
+          <IN description="Proposition or subordinating conjunction.">
+            <word const="IN" dep="11" id="word-7" mod="case">of</word>
+          </IN>
+          <NP description="Noun Phrase">
+            <PRP description="Personal Pronoun">
+              <word const="PRP" dep="11" id="word-8" mod="nmod:poss">her</word>
+            </PRP>
+            <NN description="Noun">
+              <word const="NN" dep="8" id="word-9" mod="nmod">plumage</word>
+            </NN>
+          </NP>
+        </PP>
+      </NP>
+      <VP description="Verb Phrase.">
+        <JJ description="Adjective">
+          <word const="JJ" dep="0" id="word-10" mod="ROOT">exquisite</word>
+        </JJ>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <SBAR description="Clause introduced by subordinating conjunction">
+        <IN description="Proposition or subordinating conjunction.">
+          <word const="IN" dep="7" id="word-0" mod="mark">If</word>
+        </IN>
+        <RB description="Adverb">
+          <word const="RB" dep="7" id="word-1" mod="advmod">only</word>
+        </RB>
+        <S description="Simple declarative clase.">
+          <NP descroption="Noun Phrase">
+          t = 
+            <PRP description="Personal Pronoun">
+              <word const="PRP" dep="4" id="word-2" mod="nmod:poss">her</word>
+            </PRP>
+            <NN description="Noun">
+              <word const="NN" dep="7" id="word-3" mod="nsubj">voice</word>
+            </NN>
+          </NP>
+          <VP description="Verb Phrase.">
+            <VBZ description="Verb, 3rd person singular present">
+              <word const="VBZ" dep="7" id="word-4" mod="cop">is</word>
+            </VBZ>
+            <ADJP description="Adjective Phrase">
+              <IN description="Proposition or subordinating conjunction.">
+                <word const="IN" dep="7" id="word-5" mod="dep">as</word>
+              </IN>
+              <JJ description="Adjective">
+                <word const="JJ" dep="15" id="word-6" mod="advcl">sweet</word>
+              </JJ>
+            </ADJP>
+            <SBAR description="Clause introduced by subordinating conjunction">
+              <IN description="Proposition or subordinating conjunction.">
+                <word const="IN" dep="12" id="word-7" mod="mark">as</word>
+              </IN>
+              <S description="Simple declarative clase.">
+                <NP description="Noun Phrase">
+                  <PRP description="Personal Pronoun">
+                    <word const="PRP" dep="10" id="word-8" mod="nmod:poss">her</word>
+                  </PRP>
+                  <NNS description="Noun,plural">
+                    <word const="NNS" dep="12" id="word-9" mod="nsubj">looks</word>
+                  </NNS>
+                </NP>
+                <VP description="Verb Phrase.">
+                  <VBP description="Verb, non-3rd person singular present">
+                    <word const="VBP" dep="12" id="word-10" mod="cop">are</word>
+                  </VBP>
+                  <ADJP description="Adjective Phrase">
+                    <JJ description="Adjective">
+                      <word const="JJ" dep="7" id="word-11" mod="advcl">fair</word>
+                    </JJ>
+                  </ADJP>
+                </VP>
+              </S>
+            </SBAR>
+          </VP>
+        </S>
+      </SBAR>
+      <NP description="Noun Phrase">
+        <PRP description="Personal Pronoun">
+          <word const="PRP" dep="15" id="word-12" mod="nsubj">she</word>
+        </PRP>
+      </NP>
+      <VP description="Verb Phrase.">
+        <MD description="Modal">
+          <word const="MD" dep="0" id="word-13" mod="ROOT">ought</word>
+        </MD>
+        <S description="Simple declarative clase.">
+          <PP description="Prepositional Phrase">
+            <IN description="Proposition or subordinating conjunction.">
+              <word const="IN" dep="17" id="word-14" mod="case">without</word>
+            </IN>
+            <NP description="Noun Phrase">
+              <NN description="Noun">
+                <word const="NN" dep="20" id="word-15" mod="nmod">doubt</word>
+              </NN>
+            </NP>
+          </PP>
+          <VP description="Verb Phrase.">
+            <TO description="to">
+              <word const="TO" dep="20" id="word-16" mod="mark">to</word>
+            </TO>
+            <VP description="Verb Phrase.">
+              <VB description="Verb, base form.">
+                <word const="VB" dep="20" id="word-17" mod="cop">be</word>
+              </VB>
+              <NP description="Noun Phrase">
+                <NP description="Noun Phrase">
+                  <NN description="Noun">
+                    <word const="NN" dep="15" id="word-18" mod="xcomp">Queen</word>
+                  </NN>
+                </NP>
+                <PP description="Prepositional Phrase">
+                  <IN description="Proposition or subordinating conjunction.">
+                    <word const="IN" dep="23" id="word-19" mod="case">of</word>
+                  </IN>
+                  <NP description="Noun Phrase">
+                    <DT description="Determiner">
+                      <word const="DT" dep="23" id="word-20" mod="det">the</word>
+                    </DT>
+                    <NNP description="Proper noun, singular">
+                      <word const="NNP" dep="20" id="word-21" mod="nmod">Birds</word>
+                    </NNP>
+                  </NP>
+                </PP>
+              </NP>
+            </VP>
+          </VP>
+        </S>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <S description="Simple declarative clase.">
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="2" id="word-0" mod="det">The</word>
+          </DT>
+          <NNP description="Proper noun, singular">
+            <word const="NNP" dep="5" id="word-1" mod="nsubjpass">Crow</word>
+          </NNP>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VBD description="Verb, past tense">
+            <word const="VBD" dep="5" id="word-2" mod="auxpass">was</word>
+          </VBD>
+          <ADVP description="Adverb Phrase">
+            <RB description="Adverb">
+              <word const="RB" dep="5" id="word-3" mod="advmod">hugely</word>
+            </RB>
+          </ADVP>
+          <VP description="Verb Phrase.">
+            <VBN description="Verb, past participle">
+              <word const="VBN" dep="0" id="word-4" mod="ROOT">flattered</word>
+            </VBN>
+            <PP description="Prepositional Phrase">
+              <IN description="Proposition or subordinating conjunction.">
+                <word const="IN" dep="7" id="word-5" mod="case">by</word>
+              </IN>
+              <NP description="Noun Phrase">
+                <DT description="Determiner">
+                  <word const="DT" dep="5" id="word-6" mod="nmod">this</word>
+                </DT>
+              </NP>
+            </PP>
+          </VP>
+        </VP>
+      </S>
+      <CC description="Coordinating conjunction">
+        <word const="CC" dep="5" id="word-7" mod="cc">and</word>
+      </CC>
+      <S description="Simple declarative clase.">
+        <ADVP description="Adverb Phrase">
+          <RB description="Adverb">
+            <word const="RB" dep="20" id="word-8" mod="advmod">just</word>
+          </RB>
+        </ADVP>
+        <S description="Simple declarative clase.">
+          <VP description="Verb Phrase.">
+            <TO description="to">
+              <word const="TO" dep="12" id="word-9" mod="mark">to</word>
+            </TO>
+            <VP description="Verb Phrase.">
+              <VB description="Verb, base form.">
+                <word const="VB" dep="20" id="word-10" mod="csubj">show</word>
+              </VB>
+              <NP description="Noun Phrase">
+                <DT description="Determiner">
+                  <word const="DT" dep="14" id="word-11" mod="det">the</word>
+                </DT>
+                <NNP description="Proper noun, singular">
+                  <word const="NNP" dep="12" id="word-12" mod="dobj">Fox</word>
+                </NNP>
+              </NP>
+              <SBAR description="Clause introduced by subordinating conjunction">
+                <IN description="Proposition or subordinating conjunction.">
+                  <word const="IN" dep="18" id="word-13" mod="mark">that</word>
+                </IN>
+                <S description="Simple declarative clase.">
+                  <NP description="Noun Phrase">
+                    <PRP description="Personal Pronoun">
+                      <word const="PRP" dep="18" id="word-14" mod="nsubj">she</word>
+                    </PRP>
+                  </NP>
+                  <VP description="Verb Phrase.">
+                    <MD description="Modal">
+                      <word const="MD" dep="18" id="word-15" mod="aux">could</word>
+                    </MD>
+                    <VP description="Verb Phrase.">
+                      <VB description="Verb, base form.">
+                        <word const="VB" dep="12" id="word-16" mod="ccomp">sing</word>
+                      </VB>
+                      <NP description="Noun Phrase">
+                        <PRP description="Personal Pronoun">
+                          <word const="PRP" dep="18" id="word-17" mod="dobj">she</word>
+                        </PRP>
+                      </NP>
+                    </VP>
+                  </VP>
+                </S>
+              </SBAR>
+            </VP>
+          </VP>
+        </S>
+        <VP description="Verb Phrase.">
+          <VBD description="Verb, past tense">
+            <word const="VBD" dep="5" id="word-18" mod="conj">gave</word>
+          </VBD>
+          <NP description="Noun Phrase">
+            <DT description="Determiner">
+              <word const="DT" dep="23" id="word-19" mod="det">a</word>
+            </DT>
+            <JJ description="Adjective">
+              <word const="JJ" dep="23" id="word-20" mod="amod">loud</word>
+            </JJ>
+            <NN description="Noun">
+              <word const="NN" dep="20" id="word-21" mod="dobj">caw</word>
+            </NN>
+          </NP>
+        </VP>
+      </S>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <S description="Simple declarative clase.">
+        <NP description="Noun Phrase">
+          <NN description="Noun">
+            <word const="NN" dep="2" id="word-0" mod="nsubj">Down</word>
+          </NN>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VBD description="Verb, past tense">
+            <word const="VBD" dep="0" id="word-1" mod="ROOT">came</word>
+          </VBD>
+          <NP description="Noun Phrase">
+            <NP description="Noun Phrase">
+              <DT description="Determiner">
+                <word const="DT" dep="4" id="word-2" mod="det">the</word>
+              </DT>
+              <NN description="Noun">
+                <word const="NN" dep="2" id="word-3" mod="dobj">cheese</word>
+              </NN>
+            </NP>
+            <PP description="Prepositional Phrase">
+              <IN description="Proposition or subordinating conjunction.">
+                <word const="IN" dep="7" id="word-4" mod="case">of</word>
+              </IN>
+              <NP description="Noun Phrase">
+                <NN description="Noun">
+                  <word const="NN" dep="4" id="word-5" mod="nmod">course</word>
+                </NN>
+              </NP>
+            </PP>
+          </NP>
+        </VP>
+      </S>
+      <CC description="Coordinating conjunction">
+        <word const="CC" dep="2" id="word-6" mod="cc">and</word>
+      </CC>
+      <S description="Simple declarative clase.">
+        <NP description="Noun Phrase">
+          <NP description="Noun Phrase">
+            <DT description="Determiner">
+              <word const="DT" dep="11" id="word-7" mod="det">the</word>
+            </DT>
+            <NNP description="Proper noun, singular">
+              <word const="NNP" dep="17" id="word-8" mod="nsubj">Fox</word>
+            </NNP>
+          </NP>
+          <VP description="Verb Phrase.">
+            <VBG description="Verb, gerund or present participle.">
+              <word const="VBG" dep="11" id="word-9" mod="acl">snatching</word>
+            </VBG>
+            <NP description="Noun Phrase">
+              <PRP description="Personal Pronoun">
+                <word const="PRP" dep="13" id="word-10" mod="dobj">it</word>
+              </PRP>
+            </NP>
+            <PRT description="Particle. Category for words that should be tagged RP">
+              <RP description="Particle">
+                <word const="RP" dep="13" id="word-11" mod="compound:prt">up</word>
+              </RP>
+            </PRT>
+          </VP>
+        </NP>
+        <VP description="Verb Phrase.">
+          <VBD description="Verb, past tense">
+            <word const="VBD" dep="2" id="word-12" mod="conj">said</word>
+          </VBD>
+          <S description="Simple declarative clase.">
+            <NP description="Noun Phrase">
+              <PRP description="Personal Pronoun">
+                <word const="PRP" dep="21" id="word-13" mod="nsubj">You</word>
+              </PRP>
+            </NP>
+            <VP description="Verb Phrase.">
+              <VBP description="Verb, non-3rd person singular present">
+                <word const="VBP" dep="17" id="word-14" mod="ccomp">have</word>
+              </VBP>
+              <NP description="Noun Phrase">
+                <NP description="Noun Phrase">
+                  <NP description="Noun Phrase">
+                    <DT description="Determiner">
+                      <word const="DT" dep="23" id="word-15" mod="det">a</word>
+                    </DT>
+                    <NN description="Noun">
+                      <word const="NN" dep="21" id="word-16" mod="dobj">voice</word>
+                    </NN>
+                  </NP>
+                  <NP description="Noun Phrase">
+                    <NN description="Noun">
+                      <word const="NN" dep="23" id="word-17" mod="appos">madam</word>
+                    </NN>
+                  </NP>
+                </NP>
+                <SBAR description="Clause introduced by subordinating conjunction">
+                  <S description="Simple declarative clase.">
+                    <NP description="Noun Phrase">
+                      <PRP description="Personal Pronoun">
+                        <word const="PRP" dep="28" id="word-18" mod="nsubj">I</word>
+                      </PRP>
+                    </NP>
+                    <VP description="Verb Phrase.">
+                      <VBP description="Verb, non-3rd person singular present">
+                        <word const="VBP" dep="23" id="word-19" mod="acl:relcl">see</word>
+                      </VBP>
+                      <SBAR description="Clause introduced by subordinating conjunction">
+                        <WHNP description="Wh-noun phrase." match="hello">
+                          <WP description="wh-pronoun">
+                            <word const="WP" dep="32" id="word-20" mod="dobj">what</word>
+                          </WP>
+                        </WHNP>
+                        <S description="Simple declarative clase.">
+                          <NP description="Noun Phrase">
+                            <PRP description="Personal Pronoun">
+                              <word const="PRP" dep="32" id="word-21" mod="nsubj">you</word>
+                            </PRP>
+                          </NP>
+                          <VP description="Verb Phrase.">
+                            <VBP description="Verb, non-3rd person singular present">
+                              <word const="VBP" dep="28" id="word-22" mod="ccomp">want</word>
+                            </VBP>
+                            <SBAR description="Clause introduced by subordinating conjunction">
+                              <S description="Simple declarative clase.">
+                                <VP description="Verb Phrase.">
+                                  <VBZ description="Verb, 3rd person singular present">
+                                    <word const="VBZ" dep="34" id="word-23" mod="cop">is</word>
+                                  </VBZ>
+                                  <NP description="Noun Phrase">
+                                    <NNS description="Noun,plural">
+                                      <word const="NNS" dep="32" id="word-24" mod="ccomp">wits</word>
+                                    </NNS>
+                                  </NP>
+                                </VP>
+                              </S>
+                            </SBAR>
+                          </VP>
+                        </S>
+                      </SBAR>
+                    </VP>
+                  </S>
+                </SBAR>
+              </NP>
+            </VP>
+          </S>
+        </VP>
+      </S>
+    </S>
+  </ROOT>
+</doc>

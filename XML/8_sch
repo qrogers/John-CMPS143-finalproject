@@ -1,0 +1,586 @@
+<doc>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NN description="Noun">
+          <word const="NN" dep="3" id="word-1" mod="nsubj">narrator</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-2" mod="ROOT">placed</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="5" id="word-3" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="3" id="word-4" mod="dobj">bowl</word>
+          </NN>
+        </NP>
+        <PP description="Prepositional Phrase">
+          <IN description="Proposition or subordinating conjunction.">
+            <word const="IN" dep="8" id="word-5" mod="case">on</word>
+          </IN>
+          <NP description="Noun Phrase">
+            <NP description="Noun Phrase">
+              <DT description="Determiner">
+                <word const="DT" dep="8" id="word-6" mod="det">the</word>
+              </DT>
+              <NN description="Noun">
+                <word const="NN" dep="3" id="word-7" mod="nmod">deck</word>
+              </NN>
+            </NP>
+            <PP description="Prepositional Phrase">
+              <IN description="Proposition or subordinating conjunction.">
+                <word const="IN" dep="10" id="word-8" mod="case">in</word>
+              </IN>
+              <NP description="Noun Phrase">
+                <NP description="Noun Phrase">
+                  <NN description="Noun">
+                    <word const="NN" dep="8" id="word-9" mod="nmod">order</word>
+                  </NN>
+                </NP>
+                <PP description="Prepositional Phrase">
+                  <IN description="Proposition or subordinating conjunction.">
+                    <word const="IN" dep="12" id="word-10" mod="case">for</word>
+                  </IN>
+                  <NP description="Noun Phrase">
+                    <NNP description="Proper noun, singular">
+                      <word const="NNP" dep="10" id="word-11" mod="nmod">Benjamin</word>
+                    </NNP>
+                  </NP>
+                </PP>
+              </NP>
+            </PP>
+          </NP>
+        </PP>
+        <S description="Simple declarative clase.">
+          <VP description="Verb Phrase.">
+            <TO description="to">
+              <word const="TO" dep="14" id="word-12" mod="mark">to</word>
+            </TO>
+            <VP description="Verb Phrase.">
+              <VB description="Verb, base form.">
+                <word const="VB" dep="3" id="word-13" mod="advcl">drink</word>
+              </VB>
+              <NP description="Noun Phrase">
+                <NP description="Noun Phrase">
+                  <DT description="Determiner">
+                    <word const="DT" dep="16" id="word-14" mod="det">the</word>
+                  </DT>
+                  <NN description="Noun">
+                    <word const="NN" dep="18" id="word-15" mod="nmod:poss">bowl</word>
+                  </NN>
+                  <POS description="Posesive ending">
+                    <word const="POS" dep="16" id="word-16" mod="case">'s</word>
+                  </POS>
+                </NP>
+                <NN description="Noun">
+                  <word const="NN" dep="14" id="word-17" mod="dobj">water</word>
+                </NN>
+              </NP>
+            </VP>
+          </VP>
+        </S>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NN description="Noun">
+          <word const="NN" dep="4" id="word-1" mod="nsubj">bowl</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="4" id="word-2" mod="cop">was</word>
+        </VBD>
+        <ADJP description="Adjective Phrase">
+          <JJ description="Adjective">
+            <word const="JJ" dep="0" id="word-3" mod="ROOT">popular</word>
+          </JJ>
+        </ADJP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NNS description="Noun,plural">
+          <word const="NNS" dep="3" id="word-1" mod="nsubj">birds</word>
+        </NNS>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-2" mod="ROOT">drank</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <NP description="Noun Phrase">
+            <DT description="Determiner">
+              <word const="DT" dep="5" id="word-3" mod="det">the</word>
+            </DT>
+            <NN description="Noun">
+              <word const="NN" dep="7" id="word-4" mod="nmod:poss">bowl</word>
+            </NN>
+            <POS description="Posesive ending">
+              <word const="POS" dep="5" id="word-5" mod="case">'s</word>
+            </POS>
+          </NP>
+          <NN description="Noun">
+            <word const="NN" dep="3" id="word-6" mod="dobj">water</word>
+          </NN>
+        </NP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NNS description="Noun,plural">
+          <word const="NNS" dep="3" id="word-1" mod="nsubj">birds</word>
+        </NNS>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBN description="Verb, past participle">
+          <word const="VBN" dep="0" id="word-2" mod="ROOT">bathed</word>
+        </VBN>
+        <NP description="Noun Phrase">
+          <PRP description="Personal Pronoun">
+            <word const="PRP" dep="3" id="word-3" mod="dobj">themselves</word>
+          </PRP>
+        </NP>
+        <PP description="Prepositional Phrase">
+          <IN description="Proposition or subordinating conjunction.">
+            <word const="IN" dep="7" id="word-4" mod="case">in</word>
+          </IN>
+          <NP description="Noun Phrase">
+            <DT description="Determiner">
+              <word const="DT" dep="7" id="word-5" mod="det">the</word>
+            </DT>
+            <NN description="Noun">
+              <word const="NN" dep="3" id="word-6" mod="nmod">bowl</word>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NNS description="Noun,plural">
+          <word const="NNS" dep="3" id="word-1" mod="nsubj">birds</word>
+        </NNS>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBN description="Verb, past participle">
+          <word const="VBN" dep="0" id="word-2" mod="ROOT">organized</word>
+        </VBN>
+        <NP description="Noun Phrase">
+          <PRP description="Personal Pronoun">
+            <word const="PRP" dep="3" id="word-3" mod="dobj">themselves</word>
+          </PRP>
+        </NP>
+        <PP description="Prepositional Phrase">
+          <IN description="Proposition or subordinating conjunction.">
+            <word const="IN" dep="9" id="word-4" mod="case">on</word>
+          </IN>
+          <NP description="Noun Phrase">
+            <NP description="Noun Phrase">
+              <NP description="Noun Phrase">
+                <DT description="Determiner">
+                  <word const="DT" dep="7" id="word-5" mod="det">the</word>
+                </DT>
+                <NN description="Noun">
+                  <word const="NN" dep="9" id="word-6" mod="nmod:poss">deck</word>
+                </NN>
+                <POS description="Posesive ending">
+                  <word const="POS" dep="7" id="word-7" mod="case">'s</word>
+                </POS>
+              </NP>
+              <NN description="Noun">
+                <word const="NN" dep="3" id="word-8" mod="nmod">railing</word>
+              </NN>
+            </NP>
+            <PP description="Prepositional Phrase">
+              <IN description="Proposition or subordinating conjunction.">
+                <word const="IN" dep="11" id="word-9" mod="case">in</word>
+              </IN>
+              <NP description="Noun Phrase">
+                <NP description="Noun Phrase">
+                  <NN description="Noun">
+                    <word const="NN" dep="9" id="word-10" mod="nmod">order</word>
+                  </NN>
+                </NP>
+                <PP description="Prepositional Phrase">
+                  <IN description="Proposition or subordinating conjunction.">
+                    <word const="IN" dep="14" id="word-11" mod="case">for</word>
+                  </IN>
+                  <NP description="Noun Phrase">
+                    <DT description="Determiner">
+                      <word const="DT" dep="14" id="word-12" mod="det">the</word>
+                    </DT>
+                    <NNS description="Noun,plural">
+                      <word const="NNS" dep="11" id="word-13" mod="nmod">birds</word>
+                    </NNS>
+                  </NP>
+                </PP>
+              </NP>
+            </PP>
+            <S description="Simple declarative clase.">
+              <VP description="Verb Phrase.">
+                <TO description="to">
+                  <word const="TO" dep="16" id="word-14" mod="mark">to</word>
+                </TO>
+                <VP description="Verb Phrase.">
+                  <VB description="Verb, base form.">
+                    <word const="VB" dep="9" id="word-15" mod="acl">wait</word>
+                  </VB>
+                </VP>
+              </VP>
+            </S>
+          </NP>
+        </PP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NNS description="Noun,plural">
+          <word const="NNS" dep="3" id="word-1" mod="nsubj">squirrels</word>
+        </NNS>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-2" mod="ROOT">drank</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <NP description="Noun Phrase">
+            <DT description="Determiner">
+              <word const="DT" dep="5" id="word-3" mod="det">the</word>
+            </DT>
+            <NN description="Noun">
+              <word const="NN" dep="7" id="word-4" mod="nmod:poss">bowl</word>
+            </NN>
+            <POS description="Posesive ending">
+              <word const="POS" dep="5" id="word-5" mod="case">'s</word>
+            </POS>
+          </NP>
+          <NN description="Noun">
+            <word const="NN" dep="3" id="word-6" mod="dobj">water</word>
+          </NN>
+        </NP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NN description="Noun">
+          <word const="NN" dep="3" id="word-1" mod="nsubj">squirrel</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-2" mod="ROOT">approached</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="5" id="word-3" mod="det">the</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="3" id="word-4" mod="dobj">bowl</word>
+          </NN>
+        </NP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NN description="Noun">
+          <word const="NN" dep="4" id="word-1" mod="nsubjpass">squirrel</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="4" id="word-2" mod="auxpass">was</word>
+        </VBD>
+        <VP description="Verb Phrase.">
+          <VBN description="Verb, past participle">
+            <word const="VBN" dep="0" id="word-3" mod="ROOT">startled</word>
+          </VBN>
+        </VP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NN description="Noun">
+          <word const="NN" dep="3" id="word-1" mod="nsubj">squirrel</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-2" mod="ROOT">leaped</word>
+        </VBD>
+        <SBAR description="Clause introduced by subordinating conjunction">
+          <IN description="Proposition or subordinating conjunction.">
+            <word const="IN" dep="8" id="word-3" mod="mark">because</word>
+          </IN>
+          <S description="Simple declarative clase.">
+            <NP description="Noun Phrase">
+              <DT description="Determiner">
+                <word const="DT" dep="6" id="word-4" mod="det">the</word>
+              </DT>
+              <NN description="Noun">
+                <word const="NN" dep="8" id="word-5" mod="nsubjpass">squirrel</word>
+              </NN>
+            </NP>
+            <VP description="Verb Phrase.">
+              <VBD description="Verb, past tense">
+                <word const="VBD" dep="8" id="word-6" mod="auxpass">was</word>
+              </VBD>
+              <VP description="Verb Phrase.">
+                <VBN description="Verb, past participle">
+                  <word const="VBN" dep="3" id="word-7" mod="advcl">startled</word>
+                </VBN>
+              </VP>
+            </VP>
+          </S>
+        </SBAR>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NN description="Noun">
+          <word const="NN" dep="3" id="word-1" mod="nsubj">squirrel</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-2" mod="ROOT">fell</word>
+        </VBD>
+        <PP description="Prepositional Phrase">
+          <IN description="Proposition or subordinating conjunction.">
+            <word const="IN" dep="8" id="word-3" mod="case">over</word>
+          </IN>
+          <NP description="Noun Phrase">
+            <NP description="Noun Phrase">
+              <DT description="Determiner">
+                <word const="DT" dep="6" id="word-4" mod="det">the</word>
+              </DT>
+              <NN description="Noun">
+                <word const="NN" dep="8" id="word-5" mod="nmod:poss">deck</word>
+              </NN>
+              <POS description="Posesive ending">
+                <word const="POS" dep="6" id="word-6" mod="case">'s</word>
+              </POS>
+            </NP>
+            <NN description="Noun">
+              <word const="NN" dep="3" id="word-7" mod="nmod">railing</word>
+            </NN>
+          </NP>
+        </PP>
+        <SBAR description="Clause introduced by subordinating conjunction">
+          <IN description="Proposition or subordinating conjunction.">
+            <word const="IN" dep="12" id="word-8" mod="mark">because</word>
+          </IN>
+          <S description="Simple declarative clase.">
+            <NP description="Noun Phrase">
+              <DT description="Determiner">
+                <word const="DT" dep="11" id="word-9" mod="det">the</word>
+              </DT>
+              <NN description="Noun">
+                <word const="NN" dep="12" id="word-10" mod="nsubj">squirrel</word>
+              </NN>
+            </NP>
+            <VP description="Verb Phrase.">
+              <VBD description="Verb, past tense">
+                <word const="VBD" dep="3" id="word-11" mod="advcl">leaped</word>
+              </VBD>
+              <SBAR description="Clause introduced by subordinating conjunction">
+                <IN description="Proposition or subordinating conjunction.">
+                  <word const="IN" dep="17" id="word-12" mod="mark">because</word>
+                </IN>
+                <S description="Simple declarative clase.">
+                  <NP description="Noun Phrase">
+                    <DT description="Determiner">
+                      <word const="DT" dep="15" id="word-13" mod="det">the</word>
+                    </DT>
+                    <NN description="Noun">
+                      <word const="NN" dep="17" id="word-14" mod="nsubjpass">squirrel</word>
+                    </NN>
+                  </NP>
+                  <VP description="Verb Phrase.">
+                    <VBD description="Verb, past tense">
+                      <word const="VBD" dep="17" id="word-15" mod="auxpass">was</word>
+                    </VBD>
+                    <VP description="Verb Phrase.">
+                      <VBN description="Verb, past participle">
+                        <word const="VBN" dep="12" id="word-16" mod="advcl">startled</word>
+                      </VBN>
+                    </VP>
+                  </VP>
+                </S>
+              </SBAR>
+            </VP>
+          </S>
+        </SBAR>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NN description="Noun">
+          <word const="NN" dep="3" id="word-1" mod="nsubj">squirrel</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-2" mod="ROOT">held</word>
+        </VBD>
+        <NP description="Noun Phrase">
+          <NP description="Noun Phrase">
+            <DT description="Determiner">
+              <word const="DT" dep="5" id="word-3" mod="det">the</word>
+            </DT>
+            <NN description="Noun">
+              <word const="NN" dep="7" id="word-4" mod="nmod:poss">deck</word>
+            </NN>
+            <POS description="Posesive ending">
+              <word const="POS" dep="5" id="word-5" mod="case">'s</word>
+            </POS>
+          </NP>
+          <NN description="Noun">
+            <word const="NN" dep="3" id="word-6" mod="dobj">railing</word>
+          </NN>
+        </NP>
+        <PP description="Prepositional Phrase">
+          <IN description="Proposition or subordinating conjunction.">
+            <word const="IN" dep="12" id="word-7" mod="case">with</word>
+          </IN>
+          <NP description="Noun Phrase">
+            <NP description="Noun Phrase">
+              <DT description="Determiner">
+                <word const="DT" dep="10" id="word-8" mod="det">the</word>
+              </DT>
+              <NN description="Noun">
+                <word const="NN" dep="12" id="word-9" mod="nmod:poss">squirrel</word>
+              </NN>
+              <POS description="Posesive ending">
+                <word const="POS" dep="10" id="word-10" mod="case">'s</word>
+              </POS>
+            </NP>
+            <NN description="Noun">
+              <word const="NN" dep="3" id="word-11" mod="nmod">paw</word>
+            </NN>
+          </NP>
+        </PP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <NP description="Noun Phrase">
+          <DT description="Determiner">
+            <word const="DT" dep="2" id="word-0" mod="det">The</word>
+          </DT>
+          <NN description="Noun">
+            <word const="NN" dep="4" id="word-1" mod="nmod:poss">squirrel</word>
+          </NN>
+          <POS description="Posesive ending">
+            <word const="POS" dep="2" id="word-2" mod="case">'s</word>
+          </POS>
+        </NP>
+        <NN description="Noun">
+          <word const="NN" dep="5" id="word-3" mod="nsubj">paw</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-4" mod="ROOT">slipped</word>
+        </VBD>
+        <PRT description="Particle. Category for words that should be tagged RP">
+          <RP description="Particle">
+            <word const="RP" dep="5" id="word-5" mod="compound:prt">off</word>
+          </RP>
+        </PRT>
+        <NP description="Noun Phrase">
+          <NP description="Noun Phrase">
+            <DT description="Determiner">
+              <word const="DT" dep="8" id="word-6" mod="det">the</word>
+            </DT>
+            <NN description="Noun">
+              <word const="NN" dep="10" id="word-7" mod="nmod:poss">deck</word>
+            </NN>
+            <POS description="Posesive ending">
+              <word const="POS" dep="8" id="word-8" mod="case">'s</word>
+            </POS>
+          </NP>
+          <NN description="Noun">
+            <word const="NN" dep="5" id="word-9" mod="dobj">railing</word>
+          </NN>
+        </NP>
+      </VP>
+    </S>
+  </ROOT>
+  <ROOT description="root">
+    <S description="Simple declarative clase.">
+      <NP description="Noun Phrase">
+        <DT description="Determiner">
+          <word const="DT" dep="2" id="word-0" mod="det">The</word>
+        </DT>
+        <NN description="Noun">
+          <word const="NN" dep="3" id="word-1" mod="nsubj">squirrel</word>
+        </NN>
+      </NP>
+      <VP description="Verb Phrase.">
+        <VBD description="Verb, past tense">
+          <word const="VBD" dep="0" id="word-2" mod="ROOT">fell</word>
+        </VBD>
+      </VP>
+    </S>
+  </ROOT>
+</doc>
