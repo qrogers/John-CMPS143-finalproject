@@ -73,9 +73,10 @@ class Reader():
 if __name__ == "__main__":
     texts = Reader('datasets/')
 
-    for i, DOC in enumerate(texts, 1):
+    for i, DOC in enumerate(texts, 1)
         filenames = [('sch_par', 'sch_dep'), 
                      ('story_par', 'story_dep'),
                      ('q_par', 'q_dep')]
+
         for par, dep in filenames:
             open('XML/' + str(i) + "_" +  par.split('_')[0], 'w').write(str(GenerateXML(DOC[dep], DOC[par])))
