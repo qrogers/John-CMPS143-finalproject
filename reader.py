@@ -73,7 +73,7 @@ class Reader():
 if __name__ == "__main__":
     texts = Reader('datasets/')
 
-    for i, DOC in enumerate(texts, 1)
+    for i, DOC in enumerate(texts, 1):
         filenames = [('sch_par', 'sch_dep'), 
                      ('story_par', 'story_dep'),
                      ('q_par', 'q_dep')]
