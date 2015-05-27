@@ -315,7 +315,7 @@
                         </NNS>
                       </NP>
                       <SBAR description="Clause introduced by subordinating conjunction">
-                        <WHNP description="Wh-noun phrase." match="hello">
+                        <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                           <WP description="wh-pronoun">
                             <word const="WP" dep="19" id="word-17" mod="nsubj">who</word>
                           </WP>
@@ -435,7 +435,7 @@
               </NN>
             </NP>
             <SBAR description="Clause introduced by subordinating conjunction">
-              <WHNP description="Wh-noun phrase." match="hello">
+              <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                 <WDT description="Wh-determiner">
                   <word const="WDT" dep="6" id="word-4" mod="nsubj">that</word>
                 </WDT>
@@ -828,7 +828,7 @@
                 </NP>
               </PP>
               <SBAR description="Clause introduced by subordinating conjunction">
-                <WHNP description="Wh-noun phrase." match="hello">
+                <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                   <WDT description="Wh-determiner">
                     <word const="WDT" dep="15" id="word-10" mod="nsubj">which</word>
                   </WDT>

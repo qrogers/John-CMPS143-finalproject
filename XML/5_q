@@ -31,7 +31,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="2" id="word-0" mod="nsubj">What</word>
         </WP>
@@ -63,7 +63,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="3" id="word-0" mod="nsubjpass">What</word>
         </WP>
@@ -82,7 +82,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="3" id="word-0" mod="nsubjpass">What</word>
         </WP>
@@ -114,7 +114,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="3" id="word-0" mod="nsubjpass">What</word>
         </WP>
@@ -133,7 +133,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="2" id="word-0" mod="nsubj">Who</word>
         </WP>
@@ -170,7 +170,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="2" id="word-0" mod="nsubj">Who</word>
         </WP>
@@ -239,7 +239,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="5" id="word-0" mod="dobj">What</word>
         </WP>
@@ -306,7 +306,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="6" id="word-0" mod="dobj">What</word>
         </WP>
@@ -363,7 +363,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="5" id="word-0" mod="dobj">What</word>
         </WP>
@@ -390,7 +390,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="2" id="word-0" mod="nsubj">Who</word>
         </WP>
@@ -406,7 +406,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="2" id="word-0" mod="nsubj">Who</word>
         </WP>
@@ -430,7 +430,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="2" id="word-0" mod="nsubj">What</word>
         </WP>
@@ -462,7 +462,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="2" id="word-0" mod="nsubj">Who</word>
         </WP>
@@ -489,7 +489,7 @@
   </ROOT>
   <ROOT description="root">
     <SBARQ description="Direct question introduced by wh-word or wh-phrase">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WP description="wh-pronoun">
           <word const="WP" dep="3" id="word-0" mod="nsubjpass">What</word>
         </WP>

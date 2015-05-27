@@ -36,7 +36,7 @@
                 <IN description="Proposition or subordinating conjunction.">
                   <word const="IN" dep="10" id="word-7" mod="case">at</word>
                 </IN>
-                <WHNP description="Wh-noun phrase." match="hello">
+                <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                   <WDT description="Wh-determiner">
                     <word const="WDT" dep="19" id="word-8" mod="nmod">which</word>
                   </WDT>
@@ -358,7 +358,7 @@
                 <IN description="Proposition or subordinating conjunction.">
                   <word const="IN" dep="26" id="word-22" mod="case">into</word>
                 </IN>
-                <WHNP description="Wh-noun phrase." match="hello">
+                <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                   <WDT description="Wh-determiner">
                     <word const="WDT" dep="29" id="word-23" mod="nmod">which</word>
                   </WDT>

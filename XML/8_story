@@ -474,7 +474,7 @@
                     <IN description="Proposition or subordinating conjunction.">
                       <word const="IN" dep="15" id="word-12" mod="case">at</word>
                     </IN>
-                    <WHNP description="Wh-noun phrase." match="hello">
+                    <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                       <WP description="wh-pronoun">
                         <word const="WP" dep="17" id="word-13" mod="nmod">what</word>
                       </WP>

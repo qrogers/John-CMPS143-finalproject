@@ -143,7 +143,7 @@
           </VBZ>
           <NP description="Noun Phrase">
             <SBAR description="Clause introduced by subordinating conjunction">
-              <WHNP description="Wh-noun phrase." match="hello">
+              <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                 <WP description="wh-pronoun">
                   <word const="WP" dep="4" id="word-2" mod="nsubj">what</word>
                 </WP>

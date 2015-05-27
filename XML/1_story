@@ -279,7 +279,7 @@
                           <word const="PRP" dep="19" id="word-18" mod="nmod">me</word>
                         </PRP>
                       </NP>
-                   </PP>
+                    </PP>
                   </VP>
                 </S>
               </SBAR>
@@ -356,8 +356,7 @@
           <word const="RB" dep="7" id="word-1" mod="advmod">only</word>
         </RB>
         <S description="Simple declarative clase.">
-          <NP descroption="Noun Phrase">
-          t = 
+          <NP description="Noun Phrase">
             <PRP description="Personal Pronoun">
               <word const="PRP" dep="4" id="word-2" mod="nmod:poss">her</word>
             </PRP>
@@ -676,7 +675,7 @@
                         <word const="VBP" dep="23" id="word-19" mod="acl:relcl">see</word>
                       </VBP>
                       <SBAR description="Clause introduced by subordinating conjunction">
-                        <WHNP description="Wh-noun phrase." match="hello">
+                        <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                           <WP description="wh-pronoun">
                             <word const="WP" dep="32" id="word-20" mod="dobj">what</word>
                           </WP>

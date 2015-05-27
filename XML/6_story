@@ -353,7 +353,7 @@
                                   <word const="VB" dep="27" id="word-27" mod="xcomp">know</word>
                                 </VB>
                                 <SBAR description="Clause introduced by subordinating conjunction">
-                                  <WHADJP description="WH-adverb phrase">
+                                  <WHADJP description="WH-adverb phrase" match="[VP]">
                                     <WRB description="wh-adverb">
                                       <word const="WRB" dep="32" id="word-28" mod="advmod">how</word>
                                     </WRB>
@@ -745,7 +745,7 @@
                 <word const="VBN" dep="2" id="word-4" mod="dep">been</word>
               </VBN>
               <SBAR description="Clause introduced by subordinating conjunction">
-                <WHNP description="Wh-noun phrase." match="hello">
+                <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                   <WP description="wh-pronoun">
                     <word const="WP" dep="11" id="word-5" mod="dobj">what</word>
                   </WP>

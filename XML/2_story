@@ -407,7 +407,7 @@
                 <word const="VBG" dep="19" id="word-16" mod="xcomp">saying</word>
               </VBG>
               <SBAR description="Clause introduced by subordinating conjunction">
-                <WHADJP description="WH-adverb phrase">
+                <WHADJP description="WH-adverb phrase" match="[VP]">
                   <WRB description="wh-adverb">
                     <word const="WRB" dep="22" id="word-17" mod="advmod">how</word>
                   </WRB>
@@ -467,7 +467,7 @@
   </ROOT>
   <ROOT description="root">
     <FRAG description="Fragment">
-      <WHNP description="Wh-noun phrase." match="hello">
+      <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
         <WDT description="Wh-determiner">
           <word const="WDT" dep="3" id="word-0" mod="det">What</word>
         </WDT>
@@ -514,7 +514,7 @@
           </NN>
         </NP>
         <SBAR description="Clause introduced by subordinating conjunction">
-          <WHNP description="Wh-noun phrase." match="hello">
+          <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
             <WDT description="Wh-determiner">
               <word const="WDT" dep="11" id="word-4" mod="nsubj">what</word>
             </WDT>

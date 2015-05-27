@@ -503,7 +503,7 @@
                                   </NN>
                                 </NP>
                                 <SBAR description="Clause introduced by subordinating conjunction">
-                                  <WHNP description="Wh-noun phrase." match="hello">
+                                  <WHNP description="Wh-noun Phrase. Introduces a clause with an NP gap.">
                                     <WDT description="Wh-determiner">
                                       <word const="WDT" dep="25" id="word-20" mod="nsubj">that</word>
                                     </WDT>
